@@ -1,0 +1,18 @@
+h1 {
+    font-family: 'Henny Penny', cursive;
+}
+
+.rank-main-container {
+    display: flex;
+    justify-content: center;
+}
+
+.rank-sub-container {
+    height: 80vh;
+    width: 50vw;
+    border: 2px solid black;
+    border-radius: 25px;
+    background: burlywood;
+    margin-bottom: 20px;
+    overflow-y: scroll;
+}

@@ -1,0 +1,16 @@
+.header-container {
+    height: 40px;
+    background: #D28D68;
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
